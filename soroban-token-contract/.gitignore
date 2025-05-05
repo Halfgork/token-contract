@@ -1,3 +1,4 @@
 /target
 /test_snapshots
-.stellar
+/.stellar
+/.gitignore
